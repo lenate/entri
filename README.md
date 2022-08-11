@@ -113,6 +113,13 @@ each candidate/interviewer available slot list
 - url : http://127.0.0.1:8000/interviewschedule/entri/scheduled/interview/slot/listing/
 
 
+Screenshots
+
+![Screenshot (197)](https://user-images.githubusercontent.com/72091741/184181218-cdd84c69-3c4e-4b0b-b416-c57343e46669.png)
+![Screenshot (200)](https://user-images.githubusercontent.com/72091741/184181356-b9beb0fc-64cc-497e-9a20-79c5737c12c9.png)
+![image](https://user-images.githubusercontent.com/72091741/184181500-743adc43-c154-4617-b45b-cd91b412de18.png)
+![image](https://user-images.githubusercontent.com/72091741/184181606-add77ee3-4463-479c-a5f9-b5ba79a12852.png)
+
 
 
 
