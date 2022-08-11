@@ -13,6 +13,11 @@ on same time slot and that issue still persist in my application too.
 2. If I had some more time how I would you improved my interview application project by trying to avoid the
    conflict if the same interviewer is happened to be booked on same time slot and also try automated the interview application.
    
+   In my application I tried to use the logger.info(logging) statements intead of print as 
+   Logging output is more flexible. It can be done at console or to a file or to some other output place and be referenced for future analysis
+   and You can log to files, sockets, pretty much anything, all at the same time
+   Secondly, I have incoporated the post_save functionality in models.
+   
    
 ## Examples
 
